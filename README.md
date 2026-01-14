@@ -1,4 +1,4 @@
-# Projetos-de-I.A- A.I-Projects
+# Projetos-de-I.A- A.I-Projects 🤖
 
 ## Repositorio voltado para Projetos de I.a. Repository from A.i Projects
 
